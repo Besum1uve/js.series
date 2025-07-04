@@ -1,0 +1,7 @@
+const A=new String('hello')
+console.log(A[0])
+console.log(A.__proto__)
+console.log(A.length)
+console.log(A.charAt(2))
+console.log(A.toUpperCase())
+console.log(A.indexOf('l'))
